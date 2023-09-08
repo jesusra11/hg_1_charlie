@@ -1,4 +1,4 @@
-# hg_1_charlie: Jesusra11
+charlie: Jesusra11
 • Alfa: Brian Delgado "darkskyn"
 • Bravo: Miquel Suarez "Miquelsuareza"
 • Charlie: Jesus Rodriguez "jesusra11"
